@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.SET_ANIMATION_SCALE
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:10:22-75
+application
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:12:5-51:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.android\build-cache\4138b63ee66269a6551ad6f18772ae8663f998e6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.android\build-cache\a3bb3cb8f8ab1172f7a3d31f753a2198e025a228\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Administrator\.android\build-cache\e3bf6f43cd84ee7d2d0a1c2101056443c20d6dcb\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Administrator\.android\build-cache\334f5476ee52cbe0a6ce29e7870069351b8fae67\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Administrator\.android\build-cache\2d8636ed7d7f91622ba7f67f0065f485717828a2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.android\build-cache\f2758d3da8a32e77de75df40eeafce92aaa36e87\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.android\build-cache\5aad29ecc2a74dfd95ed16652861e7e338eb0a02\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.android\build-cache\b56c3564b0eaaba68c9e1407bcf3d9fa6240c2c1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.android\build-cache\996425ea3ef4aedc9934ba9012e2d07e450fe257\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.android\build-cache\089e69c5ef8738d82ddb6a77a99d572bd0e308b2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.android\build-cache\f39f329f4fb7b6b0f6a5236b33940e62d0d1e942\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:17:9-35
+	tools:ignore
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:19:9-60
+	android:allowBackup
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:13:9-66
+activity#vandy.mooc.assignments.assignment.activities.MainActivity
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:20:9-30:20
+	android:label
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:22:13-45
+	android:windowSoftInputMode
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:24:13-55
+	android:theme
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:21:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:28:27-74
+activity#vandy.mooc.assignments.assignment.activities.GalleryActivity
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:31:9-35:20
+	android:label
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:33:13-59
+	android:theme
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:32:13-66
+activity#vandy.mooc.assignments.framework.application.activities.PagedActivity
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:36:9-40:20
+	android:label
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:38:13-59
+	android:theme
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:37:13-75
+provider#android.support.v4.content.FileProvider
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:42:9-50:20
+	android:authorities
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:44:13-70
+	android:grantUriPermissions
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:46:13-47
+	android:exported
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:43:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:47:13-49:53
+	android:resource
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:49:17-51
+	android:name
+		ADDED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml:48:17-67
+uses-sdk
+INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.0] C:\Users\Administrator\.android\build-cache\4138b63ee66269a6551ad6f18772ae8663f998e6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.android\build-cache\a3bb3cb8f8ab1172f7a3d31f753a2198e025a228\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\Administrator\.android\build-cache\e3bf6f43cd84ee7d2d0a1c2101056443c20d6dcb\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\Administrator\.android\build-cache\334f5476ee52cbe0a6ce29e7870069351b8fae67\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\Administrator\.android\build-cache\f7ca5c0ce4893b4392899a34eff7e10ffb42f9f3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.0] C:\Users\Administrator\.android\build-cache\2d8636ed7d7f91622ba7f67f0065f485717828a2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\Administrator\.android\build-cache\f2758d3da8a32e77de75df40eeafce92aaa36e87\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\Administrator\.android\build-cache\5aad29ecc2a74dfd95ed16652861e7e338eb0a02\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\Administrator\.android\build-cache\b56c3564b0eaaba68c9e1407bcf3d9fa6240c2c1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\Administrator\.android\build-cache\996425ea3ef4aedc9934ba9012e2d07e450fe257\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\Administrator\.android\build-cache\089e69c5ef8738d82ddb6a77a99d572bd0e308b2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\Administrator\.android\build-cache\f39f329f4fb7b6b0f6a5236b33940e62d0d1e942\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\Administrator\.android\build-cache\a3bb3cb8f8ab1172f7a3d31f753a2198e025a228\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CouseraAndroid2\assignment1\app\src\main\AndroidManifest.xml
